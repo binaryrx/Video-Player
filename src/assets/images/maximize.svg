@@ -1,13 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" >
-		<rect x="0" width="4" height="14" fill="#FFF"/>
-		<rect x="0" y="" width="14" height="4" fill="#FFF" />
-		
-		<rect x="0" y="22" width="4" height="14" fill="#FFF" />
-		<rect x="0" y="32" width="14" height="4" fill="#FFF" />
-		
-		<rect x="32" width="4" height="14" fill="#FFF" />
-		<rect x="22" y="0" width="14" height="4" fill="#FFF" />
-		
-		<rect x="32" y="22" width="4" height="14" fill="#FFF" />
-		<rect x="22" y="32" width="14" height="4" fill="#FFF" />
+	<style>
+		.bg{
+			fill: #fff;
+		}
+	</style>
+		<polygon points="36 0, 22 0, 22 4,32 4,32 14, 36 14" class="bg" />
+		<polygon points="0 0, 14 0, 14 4,4 4,4 14,0 14" class="bg" />
+		<polygon points="0 22, 0 36, 14 36, 14 32, 4,32, 4, 22" class="bg" />
+		<polygon points="22 36, 36 36, 36 22, 32 22, 32 32,22 32" class="bg" />
 	</svg>
