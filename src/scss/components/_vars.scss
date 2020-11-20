@@ -1,0 +1,16 @@
+// Media Queries
+$mq-sm:    '(max-width: 600px)';
+$mq-md:    '(min-width: 601px) and (max-width: 1000px)';
+$mq-lg:    '(min-width: 1001px)';
+
+//font Family:
+$body-font-size: 'almoni-neue', sans-serif;
+
+
+
+//font-sizes
+$mq-sm-font-size: calc(100vw / 640 * 16 * 1px);
+$mq-md-font-size: calc(100vw / 1200 * 16 * 1px);
+$mq-lg-font-size: calc(100vw / 1920 * 16 * 1px);
+
+

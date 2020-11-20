@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" style="transform:rotateY(180deg);">
+    <polygon points="19, 16 19, 0 12, 8" class="rotated" fill="#fff"/>
+    <path d="M1.5,21.3 h-0 a16.5 ,13.25 0 1,0 16, -13.3"  stroke="#fff" fill="none" stroke-width="3" />
+    <text x="13.5" y="28" fill="#fff" style="font-family: sans-serif; transform: rotateY(-180deg) translateX(-100%);" >5</text>
+</svg>
